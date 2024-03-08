@@ -1,0 +1,158 @@
+.navbar{ 
+    background-color: whitesmoke;
+    display: flex;
+    padding: 20px 10px;
+    text-align: center;
+}
+
+#log1{
+    width: 4cm;
+    height: 2cm;
+}
+
+.leftside{ 
+    font-size: 50px;
+    padding-left: 90px;
+    padding-right: 90px;
+}
+
+.companies{
+    background-color: black;
+    border-radius: 20px;
+    height: 100%;
+}
+
+.weary{
+    width: 150px;
+    height: 50px;
+    padding-left: 90px;
+    padding-right: 90px;
+    padding-bottom: 50px;
+}
+
+.rightside{  
+    text-align: center;
+    display: flex;
+    padding-left: 50px;
+}
+
+.rightside #log{
+    font-size: 40px;
+    text-align: center;
+    color: aqua;
+}
+.companies h4{
+    color: white;
+    padding-top: 50px;
+    padding-left: 500px;
+    font-size: 40px;
+}
+
+.btns{
+    display: flex;
+} 
+
+#btn1{
+    width: 8cm;
+    height: 1.5cm;
+    background-color: red;
+    color: white;
+    font-weight: 600;
+    font-size: large;
+}
+
+#btn2{
+    width: 8cm;
+    height: 1.5cm;
+    background-color: white;
+    color: red;
+    font-weight: 600;
+    font-size: large;
+}
+
+.Nextstep{
+    padding-top: 20px;
+    display: flex;
+}
+
+.text h1{
+    margin: auto;
+    text-align: left;
+    font-size: 3.7em;
+    line-height: 1.25em;
+    color: red;
+}
+
+#bs1{
+    width: 5cm;
+    height: 1.5cm;
+    color: white;
+    background-color: red;
+    font-weight: 200;
+    font-size: 30px;
+    border-radius: 5px;
+}
+
+#bs1:focus, #bs1:hover{
+    background-color: rgb(45, 126, 126);
+    color: white; 
+    transition: all 200ms ease-in-out;
+    cursor: pointer;
+}
+
+.text p{
+    font-size: 30px;
+}
+
+.text #initial{
+    text-align: left;
+    margin: auto;
+    font-size: 3.5em;
+    line-height: 1.25;
+}
+
+.image #girl{
+    width: 500px;
+    aspect-ratio: auto 500/ 500;
+    height: 500px;
+    border-radius: 22px;
+    filter: grayscale(2);
+    object-fit: cover;
+}
+
+.text{
+    margin: 0;
+}
+
+#additional{
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-style:unset;
+}
+
+#container{
+    padding: 10px;
+    max-width: 500px;
+    border-radius: 12px;
+    margin: 10px;
+    background-color: bisque;
+}
+
+#pic {
+    width: 500px;
+    border-radius: 12px;
+    object-fit: cover;
+}
+
+#bn1{
+    width: 6cm;
+    height: 1.5cm;
+    align-items: center;
+    font-size: 30px;
+    color: red;
+}
+
+#bn1:focus, #bn1:hover
