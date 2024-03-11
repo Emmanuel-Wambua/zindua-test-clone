@@ -155,4 +155,6 @@
     color: red;
 }
 
-#bn1:focus, #bn1:hover
+.software{
+    list-style: lower-greek;
+}
